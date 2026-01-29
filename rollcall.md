@@ -1,6 +1,5 @@
 # Rollcall
 
-## Name, GitHub username, and class-related interests
-* Beatriz E. Palacios A.
-  * GitHub: bepalaciosa
-  * Interests: computing for social good, building open-source community at UNM
+* Nathan Nail
+  * GitHub: nnail0
+  * Interests: being active, reading, consumer tech, cars, gym, finding a new long-term hobby
